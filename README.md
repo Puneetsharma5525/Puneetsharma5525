@@ -29,11 +29,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puneetsharma5525&theme=juicyfresh" alt="puneetsharma5525" /></a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneetsharma5525&show_icons=true&locale=en&layout=compact&theme=dark" alt="puneetsharma5525" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneetsharma5525&show_icons=true&locale=en&theme=dark" alt="puneetsharma5525" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneetsharma5525&theme=dark" alt="puneetsharma5525" /></p>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneetsharma5525&show_icons=true&locale=en&layout=compact&theme=midnight-purpl" alt="puneetsharma5525" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneetsharma5525&show_icons=true&locale=en&theme=midnight-purple" alt="puneetsharma5525" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneetsharma5525&" alt="puneetsharma5525" /></p>
